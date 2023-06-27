@@ -8,4 +8,3 @@ b = number % 100 // 10
 c = number // 100
 y = a + b + c
 print("Сумма цифр числа: ", y)
-print(a)
