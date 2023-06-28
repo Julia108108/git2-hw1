@@ -1,1 +1,2 @@
 Here is some text to make a new commit
+New line is added
